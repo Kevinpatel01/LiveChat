@@ -1,0 +1,8 @@
+HTML
+CSS
+JS
+ReactJS
+Mongo DB
+NodeJS
+Framer motion
+Material UI
